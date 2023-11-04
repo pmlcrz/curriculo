@@ -1,0 +1,193 @@
+{ 
+
+  "Informações Pessoais": { 
+
+    "Nome": "Pamela Cruz", 
+
+    "Endereço": "Santa Cruz, Rio de janeiro, RJ”, 
+
+    "Telefone": "+55 21 983087515", 
+
+    "E-mail": "pamelacruz.ads@gmail.com", 
+
+    "GitHub": "github.com/pmlcrz", 
+
+    "LinkedIn": "linkedin.com/in/pmlcrz" 
+
+  }, 
+
+  "Objetivo": "Ter a oportunidade de criar soluções que impactem positivamente a vida das pessoas.", 
+
+  "Educação": [ 
+
+    { 
+
+      "Título": "Graduação em Análise e Desenvolvimento de Sistemas", 
+
+      "Instituição": "Universidade Estácio de Sá", 
+
+      "Previsão de Formatura": "junho de 2024" 
+
+    }, 
+
+    { 
+
+      "Título": "Curso de Programação em Java", 
+
+      "Instituição": "SENAC", 
+
+      "Status": "Em andamento" 
+
+    }, 
+
+    { 
+
+      "Título": "Curso de Programação em PHP", 
+
+      "Instituição": "SENAC", 
+
+      "Concluído em": "setembro de 2023" 
+
+    }, 
+
+    { 
+
+      "Título": "Curso de Programação Web Full Stack", 
+
+      "Instituição": "SENAC", 
+
+      "Concluído em": "março de 2023" 
+
+    }, 
+
+    { 
+
+      "Título": "Curso de Manutenção de Computador", 
+
+      "Instituição": "Nave do Conhecimento", 
+
+      "Concluído em": "setembro de 2022" 
+
+    }, 
+
+    { 
+
+      "Título": "Ensino Médio", 
+
+      "Instituição": "Colégio Simonsen", 
+
+      "Concluído em": "fevereiro de 2020" 
+
+    }, 
+
+    { 
+
+      "Título": "Curso de Gestão Empresarial e Web Design", 
+
+      "Instituição": "Instituto Josué Gomes (Incap)", 
+
+      "Concluído em": "março de 2018" 
+
+    } 
+
+  ], 
+
+  "Habilidades": { 
+
+    "Hard Skills": [ 
+
+      "Windows", 
+
+      "Pacote Office", 
+
+      "Git", 
+
+      "HTML", 
+
+      "CSS", 
+
+      "JavaScript", 
+
+      "PHP", 
+
+      "Laravel", 
+
+      "Python para Cibersegurança", 
+
+      "React.js", 
+
+      "Node.js", 
+
+      "SQL", 
+
+      "Noções de Linux", 
+
+      "Java" 
+
+    ], 
+
+    "Soft Skills": [ 
+
+      "Adaptabilidade", 
+
+      "Tomada de Decisões", 
+
+      "Atendimento ao Público", 
+
+      "Liderança", 
+
+      "Resolução de Problemas", 
+
+      "Criatividade", 
+
+      "Empatia" 
+
+    ] 
+
+  }, 
+
+  "Idiomas": { 
+
+    "Inglês": "Intermediário a avançado (Nível B2)", 
+
+    "Espanhol": "Intermediário (Nível B1)", 
+
+    "Francês": "Básico (Nível A2)", 
+
+    "Mandarim": "Básico (Nível A1)" 
+
+  }, 
+
+  "Voluntariado": [ 
+
+    { 
+
+      "Organização": "IYF Brasil", 
+
+      "Período": "Junho de 2023 - Atualmente" 
+
+    }, 
+
+    { 
+
+      "Organização": "Parque Estadual da Pedra Branca", 
+
+      "Período": "Maio de 2022 - Atualmente" 
+
+    }, 
+
+    { 
+
+      "Organização": "Fazenda Modelo", 
+
+      "Período": "Novembro de 2022 - Atualmente" 
+
+    } 
+
+  ], 
+
+  "Resumo Profissional": "Carreira profissional iniciada aos 18 anos, e até os 26 acumulei experiência em atendimento direto ao público, vendas, marketing digital e funções administrativas e informáticas. Atualmente sou freelancer em desenvolvimento web." 
+
+} 
+
+ 
